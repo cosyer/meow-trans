@@ -27,6 +27,6 @@ $ meow 你好，世界
 $ meow -e 你好，世界
  🐱 (ni) 🐱 (hao)， 🐱 (shi) 🐱 (jie)
 
-$ meow --stdin < short_word.txt
-Hello。World，喵(ni)喵(hao)喵(shi)喵(jie)。喵(wang)喵(wang)喵(wang)
+$ meow --stdin < cosyer.txt
+Hello。World，喵(ni)喵(hao)喵(shi)喵(jie)。喵(miao)喵(miao)喵(miao)
 ```
